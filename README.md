@@ -1,16 +1,13 @@
-## Hi there 👋
+ 
 
-<!--
-**Vmedxx/Vmedxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boost Care Quality: 24/7 Remote Patient Monitoring
+Feeling overwhelmed by balancing patient care and administrative tasks? Fortunately, VMeDx’s Remote Patient Monitoring streamlines your practice, providing 24/7 support to reduce stress and improve patient outcomes.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+
+World-Class Virtual Medical Receptionist
+Be Undaunted
+More patients? Furthermore, more burnout? It doesn’t have to be that way. Instead, streamline patient coordination, support, and monitoring so you can focus on tasks that grow your business.
+
