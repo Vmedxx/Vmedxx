@@ -2,7 +2,7 @@
 
 Boost Care Quality: 24/7 Remote Patient Monitoring
 Feeling overwhelmed by balancing patient care and administrative tasks? Fortunately, VMeDx’s Remote Patient Monitoring streamlines your practice, providing 24/7 support to reduce stress and improve patient outcomes.
-
+https://vmedx.com/virtual-medical-receptionist/
 
 
  
